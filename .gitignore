@@ -1,0 +1,6 @@
+/.idea
+*.pyc
+/trainA
+/trainB
+/train
+/val
